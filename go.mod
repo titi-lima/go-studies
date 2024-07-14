@@ -1,6 +1,6 @@
 module github.com/titi-lima/go-studies
 
-go 1.21.0
+go 1.23
 
 require (
 	github.com/andybalholm/brotli v1.0.5 // indirect
